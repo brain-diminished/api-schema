@@ -1,0 +1,14 @@
+{
+    "name": "brain-diminished/api-schema",
+    "description": "Validate, serialize and hydrate your API-exposed data.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dorian Savina",
+            "email": "dorian.savina@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
